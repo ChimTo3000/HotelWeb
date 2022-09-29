@@ -1,0 +1,56 @@
+@media (min-width: 740px) and (max-width: 1024px) {
+    #content {
+        margin: 0;
+    }
+
+    #content .content-secsion .content-p2 {
+        display: none;
+    }
+
+    #content .content-secsion .menu-info {
+        float: none;
+        width: 100%;
+    }
+
+    #content .content-secsion .menu-img {
+        float: none;
+        width: 100%;
+    }
+}
+
+@media (max-width: 740px) {
+    #header {
+        overflow: hidden;
+    }
+
+    #slider {
+        margin-top: 10px;
+    }
+
+    #content {
+        margin: 0;
+    }
+
+    #content .content-secsion .about-img {
+        display: none;
+    }
+
+    #content .content-secsion .about-info {
+        float: none;
+        width: 100%;
+    }
+
+    #content .content-secsion .menu-info {
+        float: none;
+        width: 100%;
+    }
+
+    #content .content-secsion .menu-img {
+        float: none;
+        width: 100%;
+    }
+
+    #content .content-about .about-button {
+        width: 100%;
+    }
+}
